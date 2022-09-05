@@ -76,7 +76,7 @@ const styles = StyleSheet.create({
     height:  159,
     marginBottom:  20,
   },
-  instrutions:  {
+  instructions:  {
     color:  '#888',
     fontSize:  18, 
     marginHorizontal:  15,
